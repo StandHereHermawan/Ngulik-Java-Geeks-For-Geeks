@@ -1,6 +1,6 @@
-package ariefbelajarteknologi.array._3_accessing_values;
+package ariefbelajarteknologi.array._3_accessing_array_values;
 
-public class Practice {
+public class Practice_1 {
     public static void main(String[] args) {
         int[] arrays = new int[5];
 
